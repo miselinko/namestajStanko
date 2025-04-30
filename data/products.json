@@ -1,0 +1,91 @@
+[
+  {
+    "id": 1,
+    "name": "Bračni krevet Elegance",
+    "description": "Moderan bračni krevet sa tapaciranim uzglavljem i prostorom za odlaganje.",
+    "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?q=80&w=1470&auto=format&fit=crop",
+    "category": "Bračni kreveti",
+    "details": "Krevet Elegance je savršen spoj modernog dizajna i funkcionalnosti. Tapacirano uzglavlje pruža udobnost, dok prostor za odlaganje ispod kreveta omogućava praktično rešenje za skladištenje posteljine i drugih stvari.",
+    "specifications": {
+      "Dimenzije": "160x200 cm, 180x200 cm",
+      "Materijal": "Drvo, štof",
+      "Boje": "Siva, bež, plava",
+      "Visina uzglavlja": "120 cm",
+      "Prostor za odlaganje": "Da"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Trosed Comfort",
+    "description": "Udoban trosed sa mogućnošću razvlačenja u ležaj za spavanje.",
+    "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?q=80&w=1470&auto=format&fit=crop",
+    "category": "Trosedi",
+    "details": "Trosed Comfort je idealan za dnevne sobe i manje prostore. Lako se razvlači u udoban ležaj za spavanje, što ga čini savršenim za goste koji ostaju preko noći.",
+    "specifications": {
+      "Dimenzije (trosed)": "220x90x85 cm",
+      "Dimenzije (razvučen)": "220x140 cm",
+      "Materijal": "Drvo, štof, sunđer",
+      "Boje": "Siva, bež, braon",
+      "Mehanizam": "Razvlačenje na izvlačenje"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Garnitura Lux",
+    "description": "Kompletna garnitura koja uključuje trosed, dvosed i fotelju.",
+    "image": "https://images.unsplash.com/photo-1493663284031-b7e3aefcae8e?q=80&w=1470&auto=format&fit=crop",
+    "category": "Garniture",
+    "details": "Garnitura Lux je elegantno rešenje za vašu dnevnu sobu. Set uključuje trosed, dvosed i fotelju, svi izrađeni od visokokvalitetnih materijala za maksimalnu udobnost i dugotrajnost.",
+    "specifications": {
+      "Dimenzije troseda": "220x90x85 cm",
+      "Dimenzije dvoseda": "160x90x85 cm",
+      "Dimenzije fotelje": "90x90x85 cm",
+      "Materijal": "Drvo, štof, sunđer",
+      "Boje": "Siva, bež, braon, zelena"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Dečiji krevet Fantasy",
+    "description": "Kreativni dečiji krevet sa dodatnim prostorom za igračke.",
+    "image": "https://images.unsplash.com/photo-1520699049698-acd2fccb8cc8?q=80&w=1470&auto=format&fit=crop",
+    "category": "Dečiji kreveti",
+    "details": "Dečiji krevet Fantasy je dizajniran da inspiriše maštu vašeg deteta. Sa dodatnim prostorom za odlaganje igračaka i knjiga, ovaj krevet je praktičan i zabavan.",
+    "specifications": {
+      "Dimenzije": "90x200 cm",
+      "Materijal": "Drvo, MDF",
+      "Boje": "Bela, plava, roze",
+      "Prostor za odlaganje": "Da",
+      "Preporučeni uzrast": "3-12 godina"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Krevet po meri Unique",
+    "description": "Krevet izrađen po vašim dimenzijama i željama.",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?q=80&w=1470&auto=format&fit=crop",
+    "category": "Kreveti po meri",
+    "details": "Krevet Unique je potpuno prilagođen vašim potrebama. Izaberite dimenzije, materijale, boje i dodatne funkcionalnosti, a mi ćemo kreirati krevet koji savršeno odgovara vašem prostoru i stilu.",
+    "specifications": {
+      "Dimenzije": "Po želji",
+      "Materijal": "Po izboru (drvo, MDF, iverica, štof)",
+      "Boje": "Po izboru",
+      "Dodatne opcije": "Prostor za odlaganje, fioke, polica za knjige"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Bračni krevet Modern",
+    "description": "Minimalistički dizajn sa kvalitetnim drvenim okvirom.",
+    "image": "https://images.unsplash.com/photo-1540574163026-643ea20ade25?q=80&w=1470&auto=format&fit=crop",
+    "category": "Bračni kreveti",
+    "details": "Bračni krevet Modern odlikuje čist, minimalistički dizajn koji se lako uklapa u svaki enterijer. Izrađen od kvalitetnog drveta, ovaj krevet je izdržljiv i elegantan.",
+    "specifications": {
+      "Dimenzije": "160x200 cm, 180x200 cm",
+      "Materijal": "Masivno drvo",
+      "Boje": "Prirodna, tamni orah, bela",
+      "Visina uzglavlja": "90 cm",
+      "Prostor za odlaganje": "Ne"
+    }
+  }
+]
